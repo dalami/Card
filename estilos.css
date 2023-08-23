@@ -9,6 +9,10 @@
     font-size: small;
     
 }
+.btn4:hover{
+    cursor: pointer;
+    background-color: blue;
+}
 
 .btn5{
     background: white;
@@ -19,6 +23,10 @@
     border: 1px solid #c1c7c7;
     color: #c1c7c7;
     font-size: small;
+}
+.btn5:hover{
+    cursor: pointer;
+    background-color: blue;
 }
 .bi-info-lg{
     color: blue;
@@ -45,6 +53,22 @@
     padding-top: 5px;
     margin-left: -5px;
 }
+.span:hover{
+    cursor: pointer;
+    opacity: 0.2;
+}
+.card{
+    width: 18rem;
+    height: 443px;
+}
+
 .card-body{
     margin: 0;
 }
+.material-symbols-outlined{
+    color: blue;
+    position: relative;
+    left: 2rem;
+    bottom: -1rem;
+}
+
